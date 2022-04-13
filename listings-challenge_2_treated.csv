@@ -1,0 +1,318 @@
+﻿Código;Localização;Categoria;Comissão;Endereço;Cama Casal;Cama Solteiro;Cama Queen;Cama King;SofÃ¡ Cama Solteiro;Travesseiros;Banheiros;Taxa de Limpeza;Capacidade;Hotel;Data Inicial do contrato;Status;Tipo
+ADJ205;JUR;SIM2Q;0,2;Av dos BÃºzios, 470 Apto 205 JurerÃª FlorianÃ³polis;1;2;0;0;0;4;2;295;4;NÃ£o;25/10/2019;Ativo;Apartamento
+AYA201;JUR;JR3Q;0,2;R Prof Manoel do Lago Almeida, 140 Apto 201 JurerÃª FlorianÃ³polis;3;0;0;0;0;6;2;314;6;NÃ£o;25/10/2019;Ativo;Apartamento
+CCA201;CAN;SUP3Q;0,2;Rua Prof Teodosio Mauricio Wanderley, 120 Apto 201 Canasvieiras FlorianÃ³polis;1;4;0;0;0;6;2;354;6;NÃ£o;25/11/2019;Ativo;Apartamento
+CDS106;JUR;SUP2Q;0,2;Av dos SalmÃµes 844 Apto 106 JurerÃª FlorianÃ³polis;1;2;0;0;0;4;2;253;4;NÃ£o;05/02/2020;Ativo;Apartamento
+CHR101;JUR;SUP2Q;0,2;Rua dos Chernes, 525 Apto 101 JurerÃª FlorianÃ³polis;1;2;0;0;1;5;2;281;5;NÃ£o;01/10/2019;Ativo;Apartamento
+CPS107;JUR;SUP2Q;0,2;Rua dos Chernes, 181, apto 107 JurerÃª FlorianÃ³polis;2;0;0;0;0;4;2;285;4;NÃ£o;07/01/2020;Ativo;Apartamento
+CVJ302;JUR;MASTER3Q;0,2;Rua Deputado Paulo Preis, 565 Apto 302 JurerÃª FlorianÃ³polis;1;3;0;0;0;5;4;330;5;NÃ£o;20/01/2020;Ativo;Apartamento
+EVM102;JUR;JR3Q;0,2;Rua dos Cambuatas,104 Apto 102 JurerÃª FlorianÃ³polis;1;2;0;0;2;6;2;342;6;NÃ£o;01/12/2019;Ativo;Apartamento
+ILC1110;ILC;TOP;0,1;Il Campanario Village Resort - Av. dos BÃºzios, 1760 - JurerÃª Internacional, torre 1, ap 110;0;0;0;0;0;0;0;0;4;Sim;01/06/2019;Ativo;Dentro do Hotel
+ILC1111;ILC;JR;0,1;Il Campanario Village Resort - Av. dos BÃºzios, 1760 - JurerÃª Internacional, torre 1, ap 111;0;0;0;0;0;0;0;0;4;Sim;01/06/2019;Ativo;Dentro do Hotel
+ILC1112;ILC;JR;0,1;Il Campanario Village Resort - Av. dos BÃºzios, 1760 - JurerÃª Internacional, torre 1, ap 112;0;0;0;0;0;0;0;0;4;Sim;01/06/2019;Ativo;Dentro do Hotel
+ILC1206;ILC;JR;0,1;Il Campanario Village Resort - Av. dos BÃºzios, 1760 - JurerÃª Internacional, torre 1, ap 206;0;0;0;0;0;0;0;0;4;Sim;01/08/2019;Ativo;Dentro do Hotel
+ILC1211;ILC;JR;0,1;Il Campanario Village Resort - Av. dos BÃºzios, 1760 - JurerÃª Internacional, torre 1, ap 211;0;0;0;0;0;0;0;0;4;Sim;01/01/2019;Ativo;Dentro do Hotel
+ILC1213;ILC;JR;0,1;Il Campanario Village Resort - Av. dos BÃºzios, 1760 - JurerÃª Internacional, torre 1, ap 213;0;0;0;0;0;0;0;0;4;Sim;01/06/2019;Ativo;Dentro do Hotel
+ILC1404;ILC;JR;0,1;Il Campanario Village Resort - Av. dos BÃºzios, 1760 - JurerÃª Internacional, torre 1, ap 404;0;0;0;0;0;0;0;0;4;Sim;01/12/2018;Ativo;Dentro do Hotel
+ILC1413;ILC;JR;0,1;Il Campanario Village Resort - Av. dos BÃºzios, 1760 - JurerÃª Internacional, torre 1, ap 413;0;0;1;0;0;4;1;0;4;Sim;05/08/2020;Ativo;Dentro do Hotel
+ILC1506;ILC;TOP;0,1;Il Campanario Village Resort - Av. dos BÃºzios, 1760 - JurerÃª Internacional, torre 1, ap 506;0;0;0;0;0;0;0;0;4;Sim;20/02/2020;Ativo;Dentro do Hotel
+ILC2203;ILC;JR;0,05;Il Campanario Village Resort - Av. dos BÃºzios, 1760 - JurerÃª Internacional, torre 2, ap 203;0;0;0;0;0;0;0;0;4;Sim;01/03/2019;Ativo;Dentro do Hotel
+ILC2206;ILC;JR;0,1;Il Campanario Village Resort - Av. dos BÃºzios, 1760 - JurerÃª Internacional, torre 2, ap 206;0;0;0;0;0;0;0;0;4;Sim;01/03/2019;Ativo;Dentro do Hotel
+ILC2301;ILC;TOP;0,1;Il Campanario Village Resort - Av. dos BÃºzios, 1760 - JurerÃª Internacional, torre 2, ap 301;0;0;0;0;0;0;0;0;4;Sim;01/07/2019;Ativo;Dentro do Hotel
+ILC2303;ILC;JR;0,1;Il Campanario Village Resort - Av. dos BÃºzios, 1760 - JurerÃª Internacional, torre 2, ap 303;0;0;0;0;0;0;0;0;4;Sim;01/01/2019;Ativo;Dentro do Hotel
+ILC2412;ILC;JR;0,1;Il Campanario Village Resort - Av. dos BÃºzios, 1760 - JurerÃª Internacional, torre 2, ap 412;0;0;0;0;0;0;0;0;4;Sim;01/12/2018;Ativo;Dentro do Hotel
+ILC2413;ILC;JR;0;Il Campanario Village Resort - Av. dos BÃºzios, 1760 - JurerÃª Internacional, torre 2, ap 413;0;0;0;0;0;0;0;0;4;Sim;01/12/2018;Ativo;Dentro do Hotel
+ILC3104;ILC;JR;0,1;Il Campanario Village Resort - Av. dos BÃºzios, 1760 - JurerÃª Internacional, torre 3, ap 104;0;0;0;0;0;0;0;0;4;Sim;01/03/2019;Ativo;Dentro do Hotel
+ILC3105;ILC;JR;0,1;Il Campanario Village Resort - Av. dos BÃºzios, 1760 - JurerÃª Internacional, torre 3, ap 105;0;0;1;0;0;4;1;0;4;Sim;29/07/2020;Ativo;Dentro do Hotel
+ILC3111;ILC;JR;0,1;Il Campanario Village Resort - Av. dos BÃºzios, 1760 - JurerÃª Internacional, torre 3, ap 111;0;0;1;0;0;4;1;0;4;Sim;20/08/2020;Ativo;Dentro do Hotel
+ILC3312;ILC;JR;0,1;Il Campanario Village Resort - Av. dos BÃºzios, 1760 - JurerÃª Internacional, torre 3, ap 312;0;0;0;0;0;0;0;0;4;Sim;01/03/2019;Ativo;Dentro do Hotel
+ILC3412;ILC;JR;0,1;Il Campanario Village Resort - Av. dos BÃºzios, 1760 - JurerÃª Internacional, torre 3, ap 412;0;0;0;0;0;0;0;0;4;Sim;01/04/2020;Ativo;Dentro do Hotel
+ILC3413;ILC;JR;0,1;Il Campanario Village Resort - Av. dos BÃºzios, 1760 - JurerÃª Internacional, torre 3, ap 413;0;0;0;0;0;0;0;0;4;Sim;01/05/2019;Ativo;Dentro do Hotel
+ILC3415;ILC;TOP;0,1;Il Campanario Village Resort - Av. dos BÃºzios, 1760 - JurerÃª Internacional, torre 3, ap 415;0;0;0;0;0;0;0;0;4;Sim;01/05/2019;Ativo;Dentro do Hotel
+ILC4110;ILC;TOP;0,1;Il Campanario Village Resort - Av. dos BÃºzios, 1760 - JurerÃª Internacional, torre 4, ap 110;0;0;1;0;0;4;1;0;4;Sim;20/08/2020;Ativo;Dentro do Hotel
+ILC4310;ILC;TOP;0,1;Il Campanario Village Resort - Av. dos BÃºzios, 1760 - JurerÃª Internacional, torre 4, ap 310;0;0;0;0;0;0;0;0;4;Sim;01/01/2020;Ativo;Dentro do Hotel
+ILC4313;ILC;JR;0,1;Il Campanario Village Resort - Av. dos BÃºzios, 1760 - JurerÃª Internacional, torre 4, ap 313;0;0;0;0;0;0;0;0;4;Sim;01/01/2020;Ativo;Dentro do Hotel
+ILC4404;ILC;JR;0,1;Il Campanario Village Resort - Av. dos BÃºzios, 1760 - JurerÃª Internacional, torre 4, ap 404;0;0;0;0;0;0;0;0;4;Sim;01/01/2020;Ativo;Dentro do Hotel
+ILC4406;ILC;JR;0,05;Il Campanario Village Resort - Av. dos BÃºzios, 1760 - JurerÃª Internacional, torre 4, ap 406;0;0;0;0;0;0;0;0;4;Sim;01/01/2020;Ativo;Dentro do Hotel
+ILC4501;ILC;MASTER;0,1;Il Campanario Village Resort - Av. dos BÃºzios, 1760 - JurerÃª Internacional, torre 4, ap 501;0;0;0;0;0;0;0;0;4;Sim;01/09/2019;Ativo;Dentro do Hotel
+JBA104;JUR;JR1Q;0,15;Res, JurerÃª Beach I, Apto 104 Av dos BÃºzios, 130 JurerÃª, FlorianÃ³polis;1;0;0;0;2;4;1;198;4;NÃ£o;03/05/2020;Ativo;Apartamento
+JBA202;JUR;JR2Q;0,2;Res, JurerÃª Beach I, Apto 202, Av dos BÃºzios, 130 JurerÃª, FlorianÃ³polis;2;1;0;0;0;5;1;246;5;NÃ£o;03/05/2020;Ativo;Apartamento
+JBM201;JUR;TOP1Q;0,2;Rua Haroldo Callado, 205, apto 201, JurerÃª, FlorianÃ³polis;1;0;0;0;0;4;1;198;4;NÃ£o;03/05/2020;Ativo;Apartamento
+JBM202;JUR;TOP1Q;0,2;Rua Jornalista Haroldo Callado 305 apto 202, JurerÃª CEP 88053-600;1;0;0;0;0;4;1;198;4;NÃ£o;17/07/2020;Ativo;Apartamento
+JBM302;JUR;TOP1Q;0,2;Rua Haroldo Callado, 305, apto 302, JurerÃª, FlorianÃ³polis;1;0;0;0;2;4;1;211;4;NÃ£o;03/05/2020;Ativo;Apartamento
+JBM303;JUR;MASTER1Q;0,2;Rua Haroldo Callado, 305, apto 303, JurerÃª, FlorianÃ³polis;1;0;0;0;1;3;1;211;3;NÃ£o;03/05/2020;Ativo;Apartamento
+JBV122;JBV;TOP;0,1;Alameda CÃ©sar Nascimento, 646, apto 122 - JurerÃª, FlorianÃ³polis - SC, 88053-500;0;0;0;0;0;0;0;0;4;Sim;06/12/2019;Ativo;Dentro do Hotel
+JBV124;JBV;JR;0,1;Alameda CÃ©sar Nascimento, 646, apto 124 - JurerÃª, FlorianÃ³polis - SC, 88053-500;0;0;1;0;0;3;1;0;3;Sim;20/07/2020;Ativo;Dentro do Hotel
+JBV134;JBV;JR;0,1;Alameda CÃ©sar Nascimento, 646, apto 134 - JurerÃª, FlorianÃ³polis - SC, 88053-500;0;0;0;0;0;0;0;0;4;Sim;01/08/2019;Ativo;Dentro do Hotel
+JBV259;JBV;SUP;0,1;Alameda CÃ©sar Nascimento, 646, apto 259 - JurerÃª, FlorianÃ³polis - SC, 88053-500;0;0;0;0;0;0;0;0;4;Sim;16/12/2019;Ativo;Dentro do Hotel
+JBV265;JBV;JR;0,1;Alameda CÃ©sar Nascimento, 646, apto 265 - JurerÃª, FlorianÃ³polis - SC, 88053-500;0;1;1;0;0;3;1;0;3;Sim;22/07/2020;Ativo;Dentro do Hotel
+JBV464;JBV;JR;0;Alameda CÃ©sar Nascimento, 646, apto 464 - JurerÃª, FlorianÃ³polis - SC, 88053-500;0;0;0;0;0;0;0;0;4;Sim;01/12/2018;Ativo;Dentro do Hotel
+PSD101;JUR;SIM2Q;0,2;Rua cesar Nascimento, 138, apto 101, JurerÃª, FlorianÃ³polis;2;0;0;0;0;6;1;197;6;NÃ£o;01/09/2019;Ativo;Apartamento
+PSD102;JUR;JR1Q;0,2;Rua Cesar Nascimento, 138, apto 102, JurerÃª, FlorianÃ³polis;2;0;0;0;0;6;1;247;6;NÃ£o;01/09/2019;Ativo;Apartamento
+PSD103;JUR;JR1Q;0,2;Rua Cesar Nascimento, 138, apto 103, JurerÃª, FlorianÃ³polis;1;0;0;0;0;4;1;205;4;NÃ£o;01/09/2019;Ativo;Apartamento
+PSD201;JUR;SIM2Q;0,2;Rua Cesar Nascimento, 138, apto 201, JurerÃª, FlorianÃ³polis;2;0;0;0;0;6;1;275;6;NÃ£o;01/09/2019;Ativo;Apartamento
+PSD202;JUR;JR1Q;0,2;Rua Cesar Nascimento, 138, apto 202, JurerÃª, FlorianÃ³polis;1;0;0;0;0;4;1;198;4;NÃ£o;01/09/2019;Ativo;Apartamento
+PSD203;JUR;JR1Q;0,2;Rua Cesar Nascimento, 138, apto 203, JurerÃª, FlorianÃ³polis;1;0;0;0;0;4;1;205;4;NÃ£o;01/09/2019;Ativo;Apartamento
+PSD204;JUR;JR1Q;0,2;Rua Cesar Nascimento, 138, apto 204, JurerÃª, FlorianÃ³polis;1;0;0;0;0;4;1;198;4;NÃ£o;01/09/2019;Ativo;Apartamento
+PSD205;JUR;JR1Q;0,2;Rua Cesar Nascimento, 138, apto 205, JurerÃª, FlorianÃ³polis;1;0;0;0;0;4;1;198;4;NÃ£o;01/09/2019;Ativo;Apartamento
+PSD301;JUR;SIM2Q;0,2;Rua Cesar Nascimento, 138, apto 301, JurerÃª, FlorianÃ³polis;2;0;0;0;0;6;1;278;6;NÃ£o;01/09/2019;Ativo;Apartamento
+SBS106;JUR;JR1Q;0,2;Av das Raias, 771 Apto 106 JurerÃª FlorianÃ³polis;0;0;0;1;0;4;1;199;4;NÃ£o;01/11/2019;Ativo;Apartamento
+SBS111;JUR;JR2Q;0,2;Av das Raias, 771 Apto 111 JurerÃª FlorianÃ³polis;2;0;0;0;0;4;2;230;4;NÃ£o;02/09/2019;Ativo;Apartamento
+STO2206;STO;JR1Q;0,05;Praia do - Estr. Ver. Onildo Lemos, 2505, torre 2, apto 206 - Santinho, FlorianÃ³polis - SC, 88058-700;0;0;0;0;0;0;0;0;4;Sim;01/03/2019;Ativo;Dentro do Hotel
+VDI208;JUR;SUP2Q;0,2;Av dos Dourados, 970 Bloco 01 Apto 208 JurerÃª FlorianÃ³polis;1;1;0;0;0;6;3;289;6;NÃ£o;01/03/2019;Ativo;Apartamento
+SDO206;ING;SUP3Q;0,2;Rua Lazaro de Oliveira Souza, nÃºmero 440, Ingleses Norte, CEP: 88058-580, FlorianÃ³polis, SC;2;1;1;0;1;8;3;390;8;NÃ£o;11/09/2020;Ativo;Apartamento
+JBV252;JBV;TOP;0,1;Alameda CÃ©sar Nascimento, 646, apto 252 - JurerÃª, FlorianÃ³polis - SC, 88053-500;0;0;1;0;2;4;1;0;4;Sim;21/09/2020;Ativo;Dentro do Hotel
+ILC2106;ILC;JR;0,1;Il Campanario Village Resort - Av. dos BÃºzios, 1760 - JurerÃª Internacional, torre 2, ap 106;0;0;1;0;2;4;1;0;4;Sim;23/09/2020;Ativo;Dentro do Hotel
+IDP104;ING;SUP3Q;0,2;Rua Recanto do Sol, 300, Ingleses Norte, Apto 104A;2;2;0;0;1;7;2;345;7;NÃ£o;29/09/2020;Ativo;Apartamento
+ILC4213;ILC;JR;0,1;Il Campanario Village Resort - Av. dos BÃºzios, 1760 - JurerÃª Internacional, torre 4, ap 213;1;0;0;0;2;4;1;0;4;Sim;05/10/2020;Ativo;Dentro do Hotel
+JBV222;JBV;MASTER;0;Alameda CÃ©sar Nascimento, 646, apto 222 - JurerÃª, FlorianÃ³polis - SC, 88053-500;0;1;1;0;0;4;1;0;4;Sim;14/10/2020;Ativo;Dentro do Hotel
+JBV224;JBV;JR;0;Alameda CÃ©sar Nascimento, 646, apto 224 - JurerÃª, FlorianÃ³polis - SC, 88053-500;0;1;1;0;0;4;1;0;3;Sim;13/10/2020;Ativo;Dentro do Hotel
+JBV465;JBV;JR;0,1;Alameda CÃ©sar Nascimento, 646, apto 465 - JurerÃª, FlorianÃ³polis - SC, 88053-500;0;1;1;0;0;4;1;0;3;Sim;11/10/2020;Ativo;Dentro do Hotel
+POR204;ING;TOP3Q;0,2;Rua das Gaivotas, 1380, EdifÃ­cio Portamar, Bairro Ingleses â€“ CEP 88058-500 â€“ FlorianÃ³polis / SC;1;3;1;0;0;7;3;345;7;NÃ£o;16/10/2020;Ativo;Apartamento
+STI204;ING;SUP1Q;0,2;Rua Adiles Della Giustina, 105, apto 204 - Ingleses do Rio Vermelho, FlorianÃ³polis - SC - CEP 88058-522, FlorianÃ³polis â€“ SC;0;0;1;0;0;4;1;196;4;NÃ£o;20/10/2020;Ativo;Apartamento
+STI206;ING;SUP1Q;0,2;Rua Adiles Della Giustina, 105, apto 206 - Ingleses do Rio Vermelho, FlorianÃ³polis - SC - CEP 88058-522, FlorianÃ³polis â€“ SC;0;0;1;0;0;4;1;196;4;NÃ£o;20/10/2020;Ativo;Apartamento
+ILC3405;ILC;JR;0,1;Il Campanario Village Resort - Av. dos BÃºzios, 1760 - JurerÃª Internacional, torre 3, ap 405;0;0;1;0;0;4;1;0;4;Sim;19/10/2020;Ativo;Dentro do Hotel
+ILC3403;ILC;JR;0,1;Il Campanario Village Resort - Av. dos BÃºzios, 1760 - JurerÃª Internacional, torre 3, ap 403;0;0;1;0;0;4;1;0;4;Sim;23/10/2020;Ativo;Dentro do Hotel
+ILC1202;ILC;TOP;0,1;Il Campanario Village Resort - Av. dos BÃºzios, 1760 - JurerÃª Internacional, torre 1, ap 202;0;0;1;0;0;4;1;0;4;Sim;26/10/2020;Ativo;Dentro do Hotel
+ILC3109;ILC;TOP;0,1;Il Campanario Village Resort - Av. dos BÃºzios, 1760 - JurerÃª Internacional, torre 3, ap 109;0;0;1;0;0;4;1;0;4;Sim;28/10/2020;Ativo;Dentro do Hotel
+LIB203;ING;SUP2Q;0,2;Rua das Dunas, 125, CondomÃ­nio La Isla Bonita, Bloco A, Apto203, Ingleses, FlorianÃ³polis-SC;0;3;1;0;0;5;2;276;5;NÃ£o;30/10/2020;Ativo;Apartamento
+MDS018;ING;JR3Q;0,2;Rua Vereador Onildo Lemos, 2148, Bloco A, Apto 18, Praia do Santinho, FlorianÃ³polis â€“ SC;2;2;0;0;0;6;2;314;6;NÃ£o;02/11/2020;Ativo;Apartamento
+JBV327;JBV;TOP;0,1;Alameda CÃ©sar Nascimento, 646, apto 327 - JurerÃª, FlorianÃ³polis - SC, 88053-500;0;1;1;0;0;5;1;0;5;Sim;06/11/2020;Ativo;Dentro do Hotel
+JBV325;JBV;JR;0,1;Alameda CÃ©sar Nascimento, 646, apto 325 - JurerÃª, FlorianÃ³polis - SC, 88053-500;0;1;1;0;0;4;1;0;3;Sim;06/11/2020;Ativo;Dentro do Hotel
+RVG208;ING;TOP2Q;0,2;Residencial Villa Giardino, Rua das Gaivotas, nÃºmero 2383 - APTO 208 B2, Ingleses, FlorianÃ³polis â€“ SC;2;0;0;0;1;5;2;255;5;NÃ£o;11/11/2020;Ativo;Apartamento
+CCP201;CAN;SUP1Q;0,2;Rodovia Tertuliano de Brito Xavier, 688 - bloco A3 apto 201 - Torre BraganÃ§a do CondomÃ­nio Cidades Portuguesas â€“ Canasvieiras, FlorianÃ³polis â€“ SC - CEP: 88054-600;1;0;0;0;0;4;1;191;4;NÃ£o;16/11/2020;Ativo;Apartamento
+JSR112;JUR;SUP1Q;0,2;Rua Francisco Gouveia, 34 apto 112, JurerÃª Summer Resort - JurerÃª - CEP: 88053-645;0;0;1;0;0;5;1;220;5;NÃ£o;17/11/2020;Ativo;Apartamento
+ILC2108;ILC;TOP;0,1;Il Campanario Village Resort - Av. dos BÃºzios, 1760 - JurerÃª Internacional, torre 2, ap 108;0;0;1;0;0;4;1;0;4;Sim;23/11/2020;Ativo;Dentro do Hotel
+ILC4214;ILC;JR;0,1;Il Campanario Village Resort - Av. dos BÃºzios, 1760 - JurerÃª Internacional, torre 4, ap 214;0;0;1;0;0;4;1;0;4;Sim;24/11/2020;Ativo;Dentro do Hotel
+ILC4415;ILC;TOP;0,1;Il Campanario Village Resort - Av. dos BÃºzios, 1760 - JurerÃª Internacional, torre 4, ap 415;0;0;1;0;0;4;1;0;4;Sim;25/11/2020;Ativo;Dentro do Hotel
+ILC2109;ILC;TOP;0,1;Il Campanario Village Resort - Av. dos BÃºzios, 1760 - JurerÃª Internacional, torre 2, ap 109;0;0;1;0;0;4;1;0;4;Sim;27/11/2020;Ativo;Dentro do Hotel
+ILC3503;ILC;TOPM;0,1;Il Campanario Village Resort - Av. dos BÃºzios, 1760 - JurerÃª Internacional, torre 3, ap 503;0;0;1;0;0;4;1;0;4;Sim;03/12/2020;Ativo;Dentro do Hotel
+SDP206;ING;JR2Q;0,2;Rua dos TubarÃµes, 196 - Ingleses do Rio Vermelho, FlorianÃ³polis - SC - CEP: 88058-690;1;2;0;0;0;4;2;250;4;NÃ£o;07/12/2020;Ativo;Apartamento
+EAB203;ING;JR2Q;0,2;Rua das Gaivotas, 1085 - Ingleses do Rio Vermelho, FlorianÃ³polis â€“ SC;0;2;1;0;0;4;1;250;4;NÃ£o;08/12/2020;Ativo;Apartamento
+ILC2403;ILC;JR;0,1;Il Campanario Village Resort - Av. dos BÃºzios, 1760 - JurerÃª Internacional, torre 2, ap 403;0;0;1;0;0;4;1;0;4;Sim;14/12/2020;Ativo;Dentro do Hotel
+ELU109;JUR;TOP1Q;0,2;Rua Professor Renato Barbosa, 227 - Lâ€™unico Residence - JurerÃª, FlorianÃ³polis â€“ SC.;1;0;0;0;0;4;1,5;204;4;NÃ£o;15/12/2020;Ativo;Apartamento
+ILC1309;ILC;TOP;0,1;Il Campanario Village Resort - Av. dos BÃºzios, 1760 - JurerÃª Internacional, torre 1, ap 309;0;0;1;0;0;4;1;0;4;Sim;17/12/2020;Ativo;Dentro do Hotel
+ATL018;LAG;MASTER1Q;0,2;Rod. Antonio LuÃ­s Moura Gonzaga 95, Cond Vilas do Porto, Aldeia I, casa 18 - Rio Tavares - FlorianÃ³polis â€“ SC;0;0;1;0;0;2;1;172;2;NÃ£o;16/12/2020;Ativo;Apartamento
+ILC2307;ILC;TOP;0,1;Il Campanario Village Resort - Av. dos BÃºzios, 1760 - JurerÃª Internacional, torre 2, ap 307;0;0;0;0;0;0;0;0;4;Sim;21/12/2020;Ativo;Dentro do Hotel
+JBV155;JBV;JR;0,1;Alameda CÃ©sar Nascimento, 646, apto 155 - JurerÃª, FlorianÃ³polis - SC, 88053-500;0;1;1;0;0;4;1;0;3;Sim;23/12/2020;Ativo;Dentro do Hotel
+RTG208;ING;TOP2Q;0,2;Rua Ilha das GalÃ©s, 380, apto 208, bloco D - Ingleses Norte - FlorianÃ³polis/SC - CEP: 88058-581;0;2;1;0;0;4;2;250;4;NÃ£o;05/01/2021;Ativo;Apartamento
+AGAA5402;LAG;SUP1Q;0,2;;0;0;1;0;0;4;2;215;4;NÃ£o;06/01/2021;Ativo;Apartamento
+AGAB5402;LAG;SUP1Q;0,2;Rodovia Admar Gonzaga, 5402, studio 1 - Lagoa da ConceiÃ§Ã£o, FlorianÃ³polis/SC - CEP: 88062-001;1;0;0;0;0;2;1;169;2;NÃ£o;06/01/2021;Ativo;Apartamento
+AGAC5402;LAG;SUP1Q;0,2;Rodovia Admar Gonzaga, 5402, studio 2 - Lagoa da ConceiÃ§Ã£o, FlorianÃ³polis/SC - CEP: 88062-001;1;0;0;0;0;2;1;169;2;NÃ£o;06/01/2021;Ativo;Apartamento
+TLS901;CAM;HOUTOP5Q;0,2;Rua Tereza Lopes, 901 - CEP: 88066-065. Campeche, FlorianÃ³polis â€“ SC;5;1;0;0;0;11;3,5;485;11;NÃ£o;11/01/2021;Ativo;Casa
+RILS139;LAG;HOUJR5Q;0,2;Rua Rita LourenÃ§o da Silveira, 139 - Lagoa da ConceiÃ§Ã£o, FlorianÃ³polis/SC - CEP:88062-060;3;0;3;0;1;11;4;452;11;NÃ£o;15/01/2021;Ativo;Casa
+ILC2415;ILC;TOP;0,1;Il Campanario Village Resort - Av. dos BÃºzios, 1760 - JurerÃª Internacional, torre 2, ap 415;0;0;1;0;0;4;1;0;4;Sim;18/01/2021;Ativo;Dentro do Hotel
+JBV125;JBV;JR;0,1;Alameda CÃ©sar Nascimento, 646, apto 125 - JurerÃª, FlorianÃ³polis - SC, 88053-500;0;1;1;0;0;4;1;0;3;Sim;22/01/2021;Ativo;Dentro do Hotel
+ILC4502;ILC;MASTER;0,1;Il Campanario Village Resort - Av. dos BÃºzios, 1760 - JurerÃª Internacional, torre 4, ap 502;2;0;0;0;0;6;2;0;6;Sim;26/01/2021;Ativo;Dentro do Hotel
+STI210;ING;SUP1Q;0,2;Rua Adiles Della Giustina, 105, apto 201 - Ingleses do Rio Vermelho, FlorianÃ³polis - SC - CEP 88058-522, FlorianÃ³polis â€“ SC;0;0;1;0;0;4;1;196;4;NÃ£o;29/01/2021;Ativo;Apartamento
+STI209;ING;SUP1Q;0,2;Rua Adiles Della Giustina, 105 - Ingleses do Rio Vermelho, FlorianÃ³polis - SC - CEP 88058-522, FlorianÃ³polis â€“ SC;0;0;1;0;0;4;1;196;4;NÃ£o;01/02/2021;Ativo;Apartamento
+HAV103;CEN;TOP1Q;0,2;Rua Crispim Mira, 459, Centro. CEP 88020 - 540, FlorianÃ³polis â€“ SC;0;0;1;0;1;3;1;188;3;NÃ£o;01/02/2021;Ativo;Apartamento
+JBV115;JBV;JR;0,1;Alameda CÃ©sar Nascimento, 646, apto 115 - JurerÃª, FlorianÃ³polis - SC, 88053-500;0;1;1;0;0;4;1;0;3;Sim;05/02/2021;Ativo;Dentro do Hotel
+STI109;ING;SUP1Q;0,2;Rua Adiles Della Giustina, 105 - Ingleses do Rio Vermelho, CEP 88058-522. FlorianÃ³polis â€“ SC;0;0;1;0;0;4;1;196;4;NÃ£o;09/02/2021;Ativo;Apartamento
+LIN203;CEN;TOP1Q;0,2;Rua Felipe Schmidt, 1102, 7Âº pavimento, apto 203 - Centro, FlorianÃ³polis â€“ SC;0;2;0;0;0;4;1;186;4;NÃ£o;12/02/2021;Ativo;Apartamento
+ILC4208;ILC;TOP;0,1;Il Campanario Village Resort - Av. dos BÃºzios, 1760 - JurerÃª Internacional, torre 4, ap 208;1;0;0;0;0;4;1;0;4;Sim;16/02/2021;Ativo;Dentro do Hotel
+BOU201;CAN;JR1Q;0,25;Rua HypÃ³lito Gregorio Pereira, 137, apto 201, Canasvieiras- FlorianÃ³polis/SC;0;2;1;0;0;4;1;202;4;NÃ£o;12/02/2021;Ativo;Apartamento
+VISE030;CEN;HOUTOP2Q;0,25;Rua Felipe Schmidt, 1066, casa 030 - Centro, FlorianÃ³polis/SC - CEP 88010-002;1;1;0;0;1;4;3;258;4;NÃ£o;18/02/2021;Ativo;Casa
+TOCA151;CAM;HOUJR2Q;0,25;Rua das Corujas, 151 - Campeche, FlorianÃ³polis - SC - CEP 88063-287;1;2;0;0;0;4;1;255;4;NÃ£o;19/02/2021;Ativo;Casa
+RPC306;CAN;SUP2Q;0,2;Rod. VirgÃ­lio VÃ¡rzea, 4570, apto 306, Bloco Q - Canasvieiras, FlorianÃ³polis/SC - CEP: 88054-605;0;2;1;0;0;6;1;269;6;NÃ£o;23/02/2021;Ativo;Apartamento
+JBM301;JUR;TOP1Q;0,25;R. Jornalista Haroldo Callado, 305, apto 301 - JurerÃª, FlorianÃ³polis/SC - CEP: 88053-600;1;0;0;0;2;4;1;206;4;NÃ£o;25/02/2021;Ativo;Apartamento
+SEJ052;ING;HOUJR6Q;0,2;ServidÃ£o do Jornalista, casa 52 - Ingleses Norte, FlorianÃ³polis/SC - CEP: 88058-724;4;4;0;0;0;12;4;576;12;NÃ£o;26/02/2021;Ativo;Casa
+JBV106;JBV;JR;0,1;Alameda CÃ©sar Nascimento, 646, apto 106 - JurerÃª, FlorianÃ³polis - SC, 88053-500;0;1;1;0;0;3;1;0;3;Sim;01/03/2021;Ativo;Dentro do Hotel
+JBV108;JBV;TOP;0,1;Alameda CÃ©sar Nascimento, 646, apto 108 - JurerÃª, FlorianÃ³polis - SC, 88053-500;0;1;1;0;0;5;1;0;5;Sim;01/03/2021;Ativo;Dentro do Hotel
+JBV173;JBV;JR;0,1;Alameda CÃ©sar Nascimento, 646, apto 173 - JurerÃª, FlorianÃ³polis - SC, 88053-500;0;1;1;0;0;3;1;0;3;Sim;01/03/2021;Ativo;Dentro do Hotel
+ILC4102;ILC;TOP;0,1;Il Campanario Village Resort - Av. dos BÃºzios, 1760 - JurerÃª Internacional, torre 4, ap 102;0;0;1;0;0;4;1;0;4;Sim;21/06/2019;Ativo;Dentro do Hotel
+TER301;ING;SUP2Q;0,2;ServidÃ£o Manoel Fernandes Nunes, n. 51, apto 301 - Ingleses, FlorianÃ³polis/SC â€“ CEP: 88.058-710;1;3;0;0;1;6;2;295;6;NÃ£o;02/03/2021;Ativo;Apartamento
+SBR304;ING;SUP2Q;0,2;Estrada Vereador Onildo Lemos, n. 2050, apto 304 - Santinho, FlorianÃ³polis/SC - CEP: 88.058-400;1;3;0;0;1;6;2;295;6;NÃ£o;02/03/2021;Ativo;Apartamento
+LEN203;ING;TOP2Q;0,2;Rua dos TubarÃµes, n. 164, apto 203 - Ingleses, FlorianÃ³polis/SC - CEP: 88.058-690;0;3;1;0;1;6;2;295;6;NÃ£o;02/03/2021;Ativo;Apartamento
+VER102;ING;SUP2Q;0,2;ServidÃ£o IpÃª do CostÃ£o, n. 32, apto 102 - bloco B - Santinho, FlorianÃ³polis/SC - CEP: 88.058-826;1;3;0;0;1;6;2;295;6;NÃ£o;02/03/2021;Ativo;Apartamento
+SLA402;SLA;SUP;0,1;Slaviero Acquamar Ingleses - R. das Gaivotas, 1114, apto 402 - Ingleses, FlorianÃ³polis - SC, 88058-500.;0;0;1;0;2;4;1;0;4;Sim;03/03/2021;Ativo;Dentro do Hotel
+SLA401;SLA;SUP;0,1;Slaviero Acquamar Ingleses, R. das Gaivotas, 1114, apto 401 - Ingleses, FlorianÃ³polis - SC, 88058-500.;1;1;0;0;1;4;1;0;4;Sim;03/03/2021;Ativo;Dentro do Hotel
+MAV001;JUR;SIM1Q;0,2;Rodovia Tertuliano de Brito Xavier, n. 3415, apto 001, ChalÃ© Sinimbu - JurerÃª, FlorianÃ³polis â€“ SC, CEP: 88054-601;1;0;0;0;0;2;1;169;2;NÃ£o;12/03/2021;Ativo;Apartamento
+MAV002;JUR;SIM1Q;0,2;Rodovia Tertuliano de Brito Xavier, n. 3415, apto 002, ChalÃ© Sinimbu - JurerÃª, FlorianÃ³polis â€“ SC, CEP: 88054-601;1;0;0;0;0;2;1;169;2;NÃ£o;12/03/2021;Ativo;Apartamento
+JBV334;JBV;JR;0,1;Alameda CÃ©sar Nascimento, 646, apto 334 - JurerÃª, FlorianÃ³polis - SC, 88053-500;0;1;1;0;0;3;1;0;3;Sim;18/03/2021;Ativo;Dentro do Hotel
+ILC3404;ILC;JR;0,1;Il Campanario Village Resort - Av. dos BÃºzios, 1760 - JurerÃª Internacional, torre 3, ap 404;0;0;1;0;0;4;1;0;4;Sim;19/03/2021;Ativo;Dentro do Hotel
+SBR402;ING;JR2Q;0,2;Vereador Onildo Lemos, n. 2050, apto 402 - Santinho, FlorianÃ³polis - SC, CEP 88058-700;1;4;0;0;0;6;2;312;6;NÃ£o;25/03/2021;Ativo;Apartamento
+JBV407;JBV;TOP;0,1;Alameda CÃ©sar Nascimento, 646, apto 407 - JurerÃª, FlorianÃ³polis - SC, 88053-500;0;1;1;0;0;5;1;0;5;Sim;30/03/2021;Ativo;Dentro do Hotel
+JOC456;CEN;SUP1Q;0,2;R. JoÃ£o Carvalho, n. 456 - AgronÃ´mica, FlorianÃ³polis - SC, CEP 88025-010;1;0;0;0;1;3;1;206;3;NÃ£o;30/03/2021;Ativo;Apartamento
+RPC308;CAN;SUP2Q;0,25;Rod. VirgÃ­lio VÃ¡rzea, 4570, Bloco G, apto 308 - Canasvieiras, FlorianÃ³polis/SC - CEP: 88054-605;0;4;1;0;0;6;1;292;6;NÃ£o;31/03/2021;Ativo;Apartamento
+FDU003;ING;SIM1Q;0,25;Rod. JoÃ£o Gualberto Soares, n. 8126, apto 003 - Ingleses do Rio Vermelho, FlorianÃ³polis - SC, CEP 88060-000;1;0;0;0;0;4;1;196;4;NÃ£o;06/04/2021;Ativo;Apartamento
+FDU004;ING;SIM1Q;0,25;Rod. JoÃ£o Gualberto Soares, n. 8126, apto 004 - Ingleses do Rio Vermelho, FlorianÃ³polis - SC, CEP 88060-000;1;0;0;0;0;4;1;196;4;NÃ£o;06/04/2021;Ativo;Apartamento
+FDU005;ING;JR1Q;0,25;Rod. JoÃ£o Gualberto Soares, n. 8126, apto 005 - Ingleses do Rio Vermelho, FlorianÃ³polis - SC, CEP 88060-000;2;0;0;0;0;6;1;231;6;NÃ£o;06/04/2021;Ativo;Apartamento
+FDU006;ING;JR1Q;0,25;Rod. JoÃ£o Gualberto Soares, n. 8126, apto 006 - Ingleses do Rio Vermelho, FlorianÃ³polis - SC, CEP 88060-000;2;0;0;0;0;6;1;231;6;NÃ£o;06/04/2021;Ativo;Apartamento
+FDU007;ING;SIM1Q;0,25;Rod. JoÃ£o Gualberto Soares, n. 8126, apto 007 - Ingleses do Rio Vermelho, FlorianÃ³polis - SC, CEP 88060-000;1;0;0;0;0;4;1;196;4;NÃ£o;06/04/2021;Ativo;Apartamento
+FDU008;ING;SIM1Q;0,25;Rod. JoÃ£o Gualberto Soares, n. 8126, apto 008 - Ingleses do Rio Vermelho, FlorianÃ³polis - SC, CEP 88060-000;1;0;0;0;0;2;1;169;2;NÃ£o;06/04/2021;Ativo;Apartamento
+DOV208;ING;TOP2Q;0,25;R. Ilha das GalÃ©s, 272, apto 208, Bloco B - Ingleses Norte, FlorianÃ³polis - SC, CEP 88058-580;1;2;0;0;0;6;2;277;6;NÃ£o;15/04/2021;Ativo;Apartamento
+ILC4408;ILC;TOP;0,1;Il Campanario Village Resort - Av. dos BÃºzios, 1760 - JurerÃª Internacional, torre 4, ap 408;0;0;1;0;0;4;1;0;4;Sim;15/04/2021;Ativo;Dentro do Hotel
+ILC2309;ILC;TOP;0,1;Il Campanario Village Resort - Av. dos BÃºzios, 1760 - JurerÃª Internacional, torre 2, ap 309;0;0;1;0;0;4;1;0;4;Sim;14/04/2021;Ativo;Dentro do Hotel
+ILC4115;ILC;TOP;0,1;Il Campanario Village Resort - Av. dos BÃºzios, 1760 - JurerÃª Internacional, torre 4, ap 115;0;0;1;0;0;4;1;0;4;Sim;19/04/2021;Ativo;Dentro do Hotel
+RDC107;UFSC;TOP3Q;0,25;R. Pedro ViÃªira Vidal, 280, apto 107, torre 3 - Pantanal, FlorianÃ³polis - SC, CEP 88040-010;0;2;1;0;2;6;2;336;6;NÃ£o;26/04/2021;Ativo;Apartamento
+CNU104;ING;JR2Q;0,2;R. Martinho de Haro, n. 481, apto 104 - Ingleses Norte, FlorianÃ³polis - SC, CEP 88058-540.;1;2;0;0;0;6;1;270;6;NÃ£o;30/04/2021;Ativo;Apartamento
+EIT202;CON;TOP2Q;0,2;R. Euclides da Cunha, n. 185, apto 202, Bloco A - ItaguaÃ§u, FlorianÃ³polis - SC, CEP 88085-420;1;2;0;0;0;4;1;243;4;NÃ£o;30/04/2021;Ativo;Apartamento
+ILC3113;ILC;JR;0,1;Il Campanario Village Resort - Av. dos BÃºzios, 1760 - JurerÃª Internacional, torre 3, ap 113;0;0;1;0;0;4;1;0;4;Sim;06/05/2021;Ativo;Dentro do Hotel
+VIN202;ING;JR3Q;0,25;R. das Gaivotas, n. 1657, GaleÃ£o, apto 202 - Ingleses Norte, FlorianÃ³polis - SC, CEP 88058-500;3;1;0;0;0;7;2;339;7;NÃ£o;10/05/2021;Ativo;Apartamento
+SLA4012;SLA;SUP;0,1;R. das Gaivotas, n. 1114, apto 401 - Ingleses, FlorianÃ³polis - SC, CEP 88058-500;0;0;1;0;2;4;1;0;4;Sim;11/05/2021;Ativo;Dentro do Hotel
+ILC1313;ILC;JR;0,1;Il Campanario Village Resort - Av. dos BÃºzios, 1760 - JurerÃª Internacional, torre 1, ap 313;0;0;1;0;0;4;1;0;4;Sim;17/05/2021;Ativo;Dentro do Hotel
+ILC4107;ILC;TOP;0,1;Il Campanario Village Resort - Av. dos BÃºzios, 1760 - JurerÃª Internacional, torre 4, ap 107;0;0;1;0;0;4;1;0;4;Sim;20/05/2021;Ativo;Dentro do Hotel
+CRO206;CAN;SUP2Q;0,2;Rod. Tertuliano Brito Xavier, n. 2060, apto 206 - Canasvieiras, FlorianÃ³polis - SC, CEP 88054-600.;1;2;0;0;1;5;2;295;5;NÃ£o;24/05/2021;Ativo;Apartamento
+ILC3313;ILC;JR;0,1;Il Campanario Village Resort - Av. dos BÃºzios, 1760 - JurerÃª Internacional, torre 3, ap 313;0;0;1;0;0;4;1;0;4;Sim;26/05/2021;Ativo;Dentro do Hotel
+CPS207;JUR;SUP2Q;0,25;Rua dos Chernes, 181, 207 - JurerÃª, FlorianÃ³polis - SC, CEP 88053-545.;1;0;1;0;1;6;2;273;5;NÃ£o;25/05/2021;Ativo;Apartamento
+COS302;JUR;JR3Q;0,25;R. das Tainhotas, 59, 302 - JurerÃª, FlorianÃ³polis - SC, CEP 88053-655.;2;0;0;1;1;6;2;335;6;NÃ£o;31/05/2021;Ativo;Apartamento
+ILC3110;ILC;TOP;0,1;Il Campanario Village Resort - Av. dos BÃºzios, 1760 - JurerÃª Internacional, torre 3, ap 110;0;0;1;0;0;4;1;0;4;Sim;08/06/2021;Ativo;Dentro do Hotel
+RAC304;JUR;TOP4Q;0,25;R. dos Cambuatas, n. 117, apto 404 - JurerÃª, FlorianÃ³polis - SC, CEP 88053-525;1;1;2;0;0;4;5;433;9;NÃ£o;16/06/2021;Ativo;Apartamento
+JBV306;JBV;JR;0,1;Alameda CÃ©sar Nascimento, 646, apto 306 - JurerÃª, FlorianÃ³polis - SC, 88053-500;0;1;1;0;0;3;1;0;3;Sim;18/06/2021;Ativo;Dentro do Hotel
+SDR001;LAG;TOP1Q;0,2;Av. das Rendeiras, 372, apto 001 - Lagoa da ConceiÃ§Ã£o, FlorianÃ³polis - SC, 88062-400;0;0;1;0;0;4;1;196;4;NÃ£o;28/06/2021;Ativo;Apartamento
+SDR002;LAG;TOP1Q;0,2;Av. das Rendeiras, 372, apto 002 - Lagoa da ConceiÃ§Ã£o, FlorianÃ³polis - SC, 88062-400;0;0;1;0;0;2;1;169;2;NÃ£o;28/06/2021;Ativo;Apartamento
+SDR005;LAG;SUP1Q;0,2;Av. das Rendeiras, 372, apto 005 - Lagoa da ConceiÃ§Ã£o, FlorianÃ³polis - SC, 88062-400;0;0;1;0;0;2;1;169;2;NÃ£o;28/06/2021;Ativo;Apartamento
+SDR006;LAG;SUP1Q;0,2;Av. das Rendeiras, 372, apto 006 - Lagoa da ConceiÃ§Ã£o, FlorianÃ³polis - SC, 88062-400;1;0;0;0;0;2;1;169;2;NÃ£o;28/06/2021;Ativo;Apartamento
+SDR007;LAG;SUP1Q;0,2;Av. das Rendeiras, 372, apto 007 - Lagoa da ConceiÃ§Ã£o, FlorianÃ³polis - SC, 88062-400;1;0;0;0;0;2;1;169;2;NÃ£o;28/06/2021;Ativo;Apartamento
+SDR008;LAG;SUP1Q;0,2;Av. das Rendeiras, 372, apto 008 - Lagoa da ConceiÃ§Ã£o, FlorianÃ³polis - SC, 88062-400;1;0;0;0;0;4;1;196;4;NÃ£o;28/06/2021;Ativo;Apartamento
+SDR010;LAG;SUP1Q;0,2;Av. das Rendeiras, 372, apto 010 - Lagoa da ConceiÃ§Ã£o, FlorianÃ³polis - SC, 88062-400;0;0;1;0;0;2;1;169;2;NÃ£o;28/06/2021;Ativo;Apartamento
+JBV142;JBV;TOP;0,1;Alameda CÃ©sar Nascimento, 646, apto 142 - JurerÃª, FlorianÃ³polis - SC, 88053-500;0;0;1;0;1;5;1;0;5;Sim;30/06/2021;Ativo;Dentro do Hotel
+ILC2501;ILC;MASTER;0,1;Il Campanario Village Resort - Av. dos BÃºzios, 1760 - JurerÃª Internacional, torre 2, ap 501;0;0;1;0;0;4;1;0;4;Sim;02/07/2021;Ativo;Dentro do Hotel
+ILC2508;ILC;MASTER;0,1;Il Campanario Village Resort - Av. dos BÃºzios, 1760 - JurerÃª Internacional, torre 2, ap 508;0;0;1;0;0;6;1;0;6;Sim;13/07/2021;Ativo;Dentro do Hotel
+RPC203;CAN;SUP2Q;0,2;Rodovia VirgÃ­lio VÃ¡rzea, n. 4570, apto 203, Bloco J - Canasvieiras, FlorianÃ³polis - SC, 88054-605;2;0;0;0;1;5;1;255;5;NÃ£o;15/07/2021;Ativo;Apartamento
+COM305;ING;SUP2Q;0,25;R. dos TubarÃµes, n. 627, apto 305 - Ingleses Norte, FlorianÃ³polis - SC, CEP 88058-690;0;3;1;0;0;5;2;276;5;NÃ£o;20/07/2021;Ativo;Apartamento
+JBV277;JBV;TOP;0,1;Alameda CÃ©sar Nascimento, 646, apto 277 - JurerÃª, FlorianÃ³polis - SC, 88053-500;0;1;1;0;0;5;1;0;5;Sim;25/06/2021;Ativo;Dentro do Hotel
+CAT406;CEN;SUP1Q;0,2;R. Ten. Silveira, 324, apto 406 - Centro - FlorianÃ³polis - SC, CEP 88010-301;0;0;1;0;1;3;1;188;3;NÃ£o;22/07/2021;Ativo;Apartamento
+MAV010;JUR;SIM1Q;0,2;Rodovia Tertuliano de Brito Xavier, n. 3415, apto 010, ChalÃ© Sinimbu - JurerÃª, FlorianÃ³polis â€“ SC, CEP: 88054-601;1;0;0;0;0;2;1;169;2;NÃ£o;26/07/2021;Ativo;Apartamento
+MAV008;JUR;SIM1Q;0,2;Rodovia Tertuliano de Brito Xavier, n. 3415, apto 008, ChalÃ© Sinimbu - JurerÃª, FlorianÃ³polis â€“ SC, CEP: 88054-601;1;0;0;0;0;2;1;169;2;NÃ£o;26/07/2021;Ativo;Apartamento
+ELU101;JUR;TOP1Q;0,2;R. Prof. Renato Barbosa, n. 227, apto 101 - JurerÃª, FlorianÃ³polis - SC, CEP 88053-640;0;0;1;0;0;2;1;169;2;NÃ£o;27/07/2021;Ativo;Apartamento
+JBV141;JBV;TOP;0,1;Alameda CÃ©sar Nascimento, 646, apto 141 - JurerÃª, FlorianÃ³polis - SC, 88053-500;0;0;1;0;0;4;1;0;4;Sim;28/07/2021;Ativo;Dentro do Hotel
+MAV009;JUR;SIM1Q;0,2;Rodovia Tertuliano de Brito Xavier, n. 3415, apto 009, ChalÃ© Sinimbu - JurerÃª, FlorianÃ³polis â€“ SC, CEP: 88054-601;1;0;0;0;0;2;1;169;2;NÃ£o;04/08/2021;Ativo;Apartamento
+RJM568;LAG;HOUMASTER2Q;0,2;Rodovia Jornalista Manoel de Menezes, 568 - Praia Mole, FlorianÃ³polis â€“ SC, 88061-700.;1;0;1;0;0;4;1;228;4;NÃ£o;09/08/2021;Ativo;Casa
+BDM207;UFSC;SUP1Q;0,2;Rua CapitÃ£o Romualdo de Barros, 850, apto 207, Carvoeira, 88040-600, FlorianÃ³polis â€“ SC;0;0;1;0;1;3;1;193;3;NÃ£o;05/08/2021;Ativo;Apartamento
+LEO202;ING;SUP2Q;0,25;ServidÃ£o Maria TomÃ¡sia Cabral, n. 35 - Ingleses Norte, FlorianÃ³polis - SC, CEP 88058-193;1;2;0;0;0;4;2;250;4;NÃ£o;30/07/2021;Ativo;Apartamento
+RSY204;ING;JR3Q;0,2;Rua dos Canudos, 573, apto 204 - Ingleses do Rio Vermelho, FlorianÃ³polis/SC - CEP: 88058-560;2;2;0;0;0;6;2;322;6;NÃ£o;10/08/2021;Ativo;Apartamento
+LES403;JUR;TOP3Q;0,2;Av. das Raias, 400, apto 403 - JurerÃª Internacional, FlorianÃ³polis - SC, CEP 88053-400.;0;0;3;0;0;6;3;345;6;NÃ£o;11/08/2021;Ativo;Apartamento
+ILC3505;ILC;TOPM;0,1;Il Campanario Village Resort - Av. dos BÃºzios, 1760 - JurerÃª Internacional, torre 3, ap 505;0;0;1;0;0;4;1;0;4;Sim;13/08/2021;Ativo;Dentro do Hotel
+RCU105;JUR;HOUSUP4Q;0,2;R. dos Cumurupis, 105 - JurerÃª Internacional, FlorianÃ³polis/SC - CEP 88053-464.;3;2;0;0;0;8;3;555;8;NÃ£o;17/08/2021;Ativo;Casa
+CBE105;CAN;SUP1Q;0,2;R. dos Eucaliptos, 575, apto 105 - Canasvieiras, FlorianÃ³polis - SC, 88054-150;1;2;0;0;0;6;1;246;6;NÃ£o;26/08/2021;Ativo;Apartamento
+RAT001;PBL;HOUTOP3Q;0,2;R. Rubens Alves, Sobrado n. 23 - 01, PerequÃª - Porto Belo - SC, CEP 88210-000.;2;3;0;0;0;7;2,5;346;7;NÃ£o;26/08/2021;Ativo;Casa
+ILC2314;ILC;JR;0,1;Il Campanario Village Resort - Av. dos BÃºzios, 1760 - JurerÃª Internacional, torre 2, ap 314;0;0;1;0;0;4;1;0;4;Sim;30/08/2021;Ativo;Dentro do Hotel
+ILC2316;ILC;TOP;0,1;Il Campanario Village Resort - Av. dos BÃºzios, 1760 - JurerÃª Internacional, torre 2, ap 316;0;0;1;0;0;4;1;0;4;Sim;30/08/2021;Ativo;Dentro do Hotel
+MER905;UFSC;SUP1Q;0,2;Rod. Admar Gonzaga, 600, apto 905 - Itacorubi, FlorianÃ³polis - SC, 88034-000;0;0;1;0;0;3;1;169;2;NÃ£o;31/08/2021;Ativo;Apartamento
+RVR506;UFSC;TOP1Q;0,2;R. Dep. AntÃ´nio Edu Vieira, 1798, apto 506 - Pantanal, FlorianÃ³polis/SC - CEP: 88040-001;1;0;0;0;0;2;1;169;2;NÃ£o;27/08/2021;Ativo;Apartamento
+CAF401;UFSC;TOP3Q;0,25;R. Apeninos, n. 100, Bloco B, apto 401 - CÃ³rrego Grande, FlorianÃ³polis/SC, CEP 88037-620;1;2;0;0;1;5;2;336;5;NÃ£o;02/09/2021;Ativo;Apartamento
+SSG424;UFSC;TOP1Q;0,2;R. JoÃ£o Pio Duarte Silva, 1350, apto 424 - CÃ³rrego Grande, FlorianÃ³polis/SC, CEP 88037-001;1;1;0;0;0;3;1;193;3;NÃ£o;01/09/2021;Ativo;Apartamento
+VLE001;BOM;JR2Q;0,17;Av. AraucÃ¡ria, 426, apto 01 - Mariscal, Bombinhas - SC, 88215-000;1;2;0;0;0;4;1;250;4;NÃ£o;06/09/2021;Ativo;Apartamento
+VLE002;BOM;JR2Q;0,17;Av. AraucÃ¡ria, 426, apto 02 - Mariscal, Bombinhas - SC, 88215-000;1;2;0;0;0;4;1;236;4;NÃ£o;06/09/2021;Ativo;Apartamento
+VLE003;BOM;JR2Q;0,17;Av. AraucÃ¡ria, 426, apto 03 - Mariscal, Bombinhas - SC, 88215-000;1;4;0;0;0;6;1;286;6;NÃ£o;06/09/2021;Ativo;Apartamento
+VLE004;BOM;JR1Q;0,17;Av. AraucÃ¡ria, 426, apto 04 - Mariscal, Bombinhas - SC, 88215-000;1;0;0;0;1;3;1;193;3;NÃ£o;06/09/2021;Ativo;Apartamento
+VLE005;BOM;JR2Q;0,17;Av. AraucÃ¡ria, 426, apto 05 - Mariscal, Bombinhas - SC, 88215-000;1;2;0;0;0;4;1;228;4;NÃ£o;06/09/2021;Ativo;Apartamento
+VLE006;BOM;JR2Q;0,17;Av. AraucÃ¡ria, 426, apto 06 - Mariscal, Bombinhas - SC, 88215-000;1;2;0;0;0;4;1;228;4;NÃ£o;06/09/2021;Ativo;Apartamento
+VLE007;BOM;JR1Q;0,17;Av. AraucÃ¡ria, 426, apto 07 - Mariscal, Bombinhas - SC, 88215-000;1;0;0;0;1;3;1;193;3;NÃ£o;06/09/2021;Ativo;Apartamento
+ILC4204;ILC;JR;0,1;Il Campanario Village Resort - Av. dos BÃºzios, 1760 - JurerÃª Internacional, torre 4, ap 204;1;0;1;0;0;4;1;0;4;Sim;03/09/2021;Ativo;Dentro do Hotel
+JBV242;JBV;TOP;0,1;Alameda CÃ©sar Nascimento, 646, apto 242 - JurerÃª, FlorianÃ³polis - SC, 88053-500;0;1;1;0;0;5;1;0;5;Sim;16/09/2021;Ativo;Dentro do Hotel
+JBV331;JBV;TOP;0,1;Alameda CÃ©sar Nascimento, 646, apto 331 - JurerÃª, FlorianÃ³polis - SC, 88053-500;0;0;1;0;1;5;1;0;5;Sim;16/09/2021;Ativo;Dentro do Hotel
+VLC208;CAM;TOP2Q;0,2;R. das Corticeiras, 81, Bloco 1, apto 208 - Campeche, FlorianÃ³polis - SC, CEP 88063-160.;0;2;1;0;1;5;2;295;5;NÃ£o;15/09/2021;Ativo;Apartamento
+STI108;ING;SUP1Q;0,2;Rua Adiles Della Giustina, 105, apto 108 - Ingleses do Rio Vermelho, FlorianÃ³polis/SC - CEP 88058-522.;0;0;1;0;0;4;1;196;4;NÃ£o;16/09/2021;Ativo;Apartamento
+CLN006;CAN;SUP2Q;0,2;Estr. Jorn. Jaime de Arruda Ramos, 2194, casa 06 - Ponta das Canas, FlorianÃ³polis - SC, CEP 88056-750;1;4;0;0;0;6;1;250;6;NÃ£o;17/09/2021;Ativo;Casa
+ILC3103;ILC;JR;0,1;Il Campanario Village Resort - Av. dos BÃºzios, 1760 - JurerÃª Internacional, torre 3, ap 103;0;0;1;0;0;4;1;0;4;Sim;23/09/2021;Ativo;Dentro do Hotel
+LES106;JUR;TOP3Q;0,2;Av. das Raias, 400, apto 106 - JurerÃª, FlorianÃ³polis - SC, CEP 88053-400.;2;0;1;0;0;8;3,5;345;8;NÃ£o;27/09/2021;Ativo;Apartamento
+ILC1214;ILC;JR;0,1;Il Campanario Village Resort - Av. dos BÃºzios, 1760 - JurerÃª Internacional, torre 1, ap 214;0;0;1;0;0;4;1;0;4;Sim;27/09/2021;Ativo;Dentro do Hotel
+ILC2201;ILC;TOP;0,1;Avenida dos BÃºzios, n. 1760, apto 2201 - JurerÃª Internacional, FlorianÃ³polis â€“ SC;0;0;1;0;0;4;1;0;4;Sim;29/09/2021;Ativo;Dentro do Hotel
+RGP208;JUR;JR2Q;0,2;Rua Professor Renato Barbosa, 259, 208 - JurerÃª, FlorianÃ³polis - SC - 88053-640;0;2;1;0;0;4;2;250;4;NÃ£o;28/09/2021;Ativo;Apartamento
+EMB686;BOM;HOUSUP3Q;0,2;R. Embira, 686 - Mariscal, Bombinhas - SC, CEP 88215-000;1;2;1;0;0;6;2;370;6;NÃ£o;28/09/2021;Ativo;Casa
+RAR065;GRA;SUP1Q;0,2;R. Alexandre Rama, 65 - IpÃª Amarelo, Gramado - RS, CEP 95670-000;1;0;0;0;2;4;1;250;4;NÃ£o;29/09/2021;Ativo;Casa
+RRE201;SAN;SUP1Q;0,2;Rodovia SC-401, 9550, apto 201 - Santo AntÃ´nio de Lisboa, FlorianÃ³polis - SC, CEP 88050-001;1;0;0;0;1;3;1;206;3;NÃ£o;30/09/2021;Ativo;Apartamento
+COI302;CAN;TOP2Q;0,2;Av. Tom Traugott Wildi, 264, bloco D, apto 302 - Praia Brava, FlorianÃ³polis - SC, 88056-800;0;2;1;0;2;6;2;288;6;NÃ£o;01/10/2021;Ativo;Apartamento
+ABC201;ITA;TOP3Q;0,2;Rua Delfim MÃ¡rio de PÃ¡dua Peixoto, 600, torre 2, 201 - Praia Brava, ItajaÃ­ - SC, 88306-813;1;2;1;0;0;6;2;320;6;NÃ£o;01/10/2021;Ativo;Apartamento
+ILC1410;ILC;TOP;0,1;Avenida dos BÃºzios, 1760, 1410 - JurerÃª Internacional, FlorianÃ³polis - SC, 88053-301;0;0;1;0;0;4;1;0;4;Sim;04/10/2021;Ativo;Dentro do Hotel
+SDR009;LAG;SUP1Q;0,2;Av. das Rendeiras, 372, studio 09 - Lagoa da ConceiÃ§Ã£o, FlorianÃ³polis - SC, 88062-400;1;0;0;0;0;4;1;196;4;NÃ£o;07/10/2021;Ativo;Apartamento
+RFT505;BCB;SUP2Q;0,2;R. 2300, 460, apto 505 - Centro, BalneÃ¡rio CamboriÃº - SC, CEP 88330-428.;2;0;0;0;0;6;2;263;6;NÃ£o;14/10/2021;Ativo;Apartamento
+SED001;UFSC;JR1Q;0,2;ServidÃ£o Dorval Manoel Bento, 175, apto 01 - CÃ³rrego Grande, FlorianÃ³polis - SC, 88037-410;1;0;0;0;0;4;1;196;4;NÃ£o;13/10/2021;Ativo;Apartamento
+MAV007;JUR;SIM1Q;0,2;Rodovia Tertuliano de Brito Xavier, n. 3415, studio 07 - JurerÃª, FlorianÃ³polis â€“ SC.;1;0;0;0;0;2;1;169;2;NÃ£o;14/10/2021;Ativo;Apartamento
+SEC016;JUR;HOUJR3Q;0,2;Serv. da Carioca, 16 - Praia do Forte, FlorianÃ³polis - SC, CEP 88053-308;3;0;0;0;1;7;2;305;7;NÃ£o;05/10/2021;Ativo;Casa
+CCB103;JUR;SUP3Q;0,2;Avenida das Raias, 601, apto 103 - JurerÃª, FlorianÃ³polis - SC, 88053-400;2;0;1;0;0;6;2;305;6;NÃ£o;15/10/2021;Ativo;Apartamento
+EDR203;ING;SUP1Q;0,2;Estr. Ver. Onildo Lemos, 600, Bloco B, apto 203 - Ingleses do Rio Vermelho, FlorianÃ³polis - SC, 88058-700;1;0;0;0;1;3;1;188;3;NÃ£o;18/10/2021;Ativo;Apartamento
+POS303;JUR;TOP2Q;0,2;Rod. Tertuliano Brito Xavier, 2501, bloco A, apto 303 - Jurere Leste, FlorianÃ³polis - SC, CEP 88054-601;1;2;0;0;0;6;2;277;6;NÃ£o;20/10/2021;Ativo;Apartamento
+IBI307;JUR;SUP1Q;0,2;Av. dos SalmÃµes, 914, apto 307 - JurerÃª, FlorianÃ³polis - SC, CEP 88053-365.;1;0;0;0;2;4;1;206;4;NÃ£o;20/10/2021;Ativo;Apartamento
+CPJ304;JUR;TOP2Q;0,2;Av. das Raias, 961, apto 304 - JurerÃª Internacional, FlorianÃ³polis - SC, CEP 88053-400.;0;2;1;0;0;6;1,1;285;6;NÃ£o;22/10/2021;Ativo;Apartamento
+RCA264;JUR;HOUMASTER4Q;0,2;Rua das CaraÃºnas, 264 - JurerÃª Internacional, FlorianÃ³polis - SC, 88053-411;2;2;1;0;0;10;7;575;10;NÃ£o;21/10/2021;Ativo;Casa
+BDM104;UFSC;SUP1Q;0,2;Rua CapitÃ£o Romualdo de Barros, 850 - apto 104 - Carvoeira, 88040-600, FlorianÃ³polis â€“ SC;1;0;0;0;1;3;1;193;3;NÃ£o;25/10/2021;Ativo;Apartamento
+CAL301;CON;JR2Q;0,2;Rua Brasilpinho, 548, PrÃ©dio Carolina, apto 301 - Kobrasol, SÃ£o JosÃ© - SC, 88102-300;1;1;0;0;0;4;1;237;4;NÃ£o;27/10/2021;Ativo;Apartamento
+ASR204;ING;MASTER2Q;0,2;Estrada Vereador Onildo Lemos, 2345, Vila 04, apto 204 - Santinho, FlorianÃ³polis - SC, 88058-700;1;0;0;1;0;6;2;277;6;NÃ£o;27/10/2021;Ativo;Apartamento
+ILC3208;ILC;TOP;0,1;Avenida dos BÃºzios, 1760, 3208 - JurerÃª Internacional, FlorianÃ³polis - SC, 88053-301;0;0;1;0;1;3;1;0;3;Sim;29/10/2021;Ativo;Dentro do Hotel
+RAI002;CAN;JR1Q;0,2;R. Afonso Cardoso da Veiga, 228 - Canasvieiras, FlorianÃ³polis - SC, CEP 88054-050, apto 002;0;0;1;0;0;2;1;169;2;NÃ£o;27/10/2021;Ativo;Apartamento
+RAI003;CAN;JR1Q;0,2;R. Afonso Cardoso da Veiga, 228 - Canasvieiras, FlorianÃ³polis - SC, CEP 88054-050, apto 003;0;1;0;0;0;1;1;158;1;NÃ£o;27/10/2021;Ativo;Apartamento
+RAI004;CAN;JR1Q;0,2;R. Afonso Cardoso da Veiga, 228 - Canasvieiras, FlorianÃ³polis - SC, CEP 88054-050, apto 004;0;0;1;0;0;2;1;169;2;NÃ£o;27/10/2021;Ativo;Apartamento
+RAI005;CAN;JR1Q;0,2;R. Afonso Cardoso da Veiga, 228 - Canasvieiras, FlorianÃ³polis - SC, CEP 88054-050, apto 005;0;0;1;0;0;2;1;169;2;NÃ£o;27/10/2021;Ativo;Apartamento
+RAI006;CAN;JR1Q;0,2;R. Afonso Cardoso da Veiga, 228 - Canasvieiras, FlorianÃ³polis - SC, CEP 88054-050, apto 006;0;0;1;0;0;2;1;169;2;NÃ£o;27/10/2021;Ativo;Apartamento
+RAI007;CAN;JR1Q;0,2;R. Afonso Cardoso da Veiga, 228 - Canasvieiras, FlorianÃ³polis - SC, CEP 88054-050, apto 007;0;0;1;0;0;2;1;169;2;NÃ£o;27/10/2021;Ativo;Apartamento
+RAI008;CAN;JR1Q;0,2;R. Afonso Cardoso da Veiga, 228 - Canasvieiras, FlorianÃ³polis - SC, CEP 88054-050, apto 008;0;0;1;0;0;2;1;169;2;NÃ£o;27/10/2021;Ativo;Apartamento
+RAI009;CAN;JR1Q;0,2;R. Afonso Cardoso da Veiga, 228 - Canasvieiras, FlorianÃ³polis - SC, CEP 88054-050, apto 009;0;0;1;0;0;2;1;169;2;NÃ£o;27/10/2021;Ativo;Apartamento
+RAI010;CAN;JR1Q;0,2;R. Afonso Cardoso da Veiga, 228 - Canasvieiras, FlorianÃ³polis - SC, CEP 88054-050, apto 010;0;0;1;0;0;2;1;169;2;NÃ£o;27/10/2021;Ativo;Apartamento
+RAI011;CAN;JR1Q;0,2;R. Afonso Cardoso da Veiga, 228 - Canasvieiras, FlorianÃ³polis - SC, CEP 88054-050, apto 011;0;0;1;0;0;2;1;169;2;NÃ£o;27/10/2021;Ativo;Apartamento
+RAI012;CAN;JR1Q;0,2;R. Afonso Cardoso da Veiga, 228 - Canasvieiras, FlorianÃ³polis - SC, CEP 88054-050, apto 012;0;1;0;0;0;1;1;158;1;NÃ£o;27/10/2021;Ativo;Apartamento
+RAI013;CAN;JR1Q;0,2;R. Afonso Cardoso da Veiga, 228 - Canasvieiras, FlorianÃ³polis - SC, CEP 88054-050, apto 013;0;1;0;0;0;1;1;158;1;NÃ£o;27/10/2021;Ativo;Apartamento
+RAI014;CAN;JR1Q;0,2;R. Afonso Cardoso da Veiga, 228 - Canasvieiras, FlorianÃ³polis - SC, CEP 88054-050, apto 014;0;0;1;0;0;2;1;169;2;NÃ£o;27/10/2021;Ativo;Apartamento
+RAI015;CAN;JR1Q;0,2;R. Afonso Cardoso da Veiga, 228 - Canasvieiras, FlorianÃ³polis - SC, CEP 88054-050, apto 015;0;1;0;0;0;1;1;158;1;NÃ£o;27/10/2021;Ativo;Apartamento
+RAI016;CAN;JR1Q;0,2;R. Afonso Cardoso da Veiga, 228 - Canasvieiras, FlorianÃ³polis - SC, CEP 88054-050, apto 016;0;0;1;0;0;2;1;169;2;NÃ£o;27/10/2021;Ativo;Apartamento
+RAI017;CAN;JR1Q;0,2;R. Afonso Cardoso da Veiga, 228 - Canasvieiras, FlorianÃ³polis - SC, CEP 88054-050, apto 017;0;0;1;0;0;2;1;169;2;NÃ£o;27/10/2021;Ativo;Apartamento
+RAI018;CAN;JR1Q;0,2;R. Afonso Cardoso da Veiga, 228 - Canasvieiras, FlorianÃ³polis - SC, CEP 88054-050, apto 018;0;0;1;0;0;2;1;169;2;NÃ£o;27/10/2021;Ativo;Apartamento
+RAI019;CAN;JR1Q;0,2;R. Afonso Cardoso da Veiga, 228 - Canasvieiras, FlorianÃ³polis - SC, CEP 88054-050, apto 019;0;0;1;0;0;2;1;169;2;NÃ£o;27/10/2021;Ativo;Apartamento
+RAI020;CAN;JR1Q;0,2;R. Afonso Cardoso da Veiga, 228 - Canasvieiras, FlorianÃ³polis - SC, CEP 88054-050, apto 020;0;0;1;0;0;2;1;169;2;NÃ£o;27/10/2021;Ativo;Apartamento
+RAI021;CAN;JR1Q;0,2;R. Afonso Cardoso da Veiga, 228 - Canasvieiras, FlorianÃ³polis - SC, CEP 88054-050, apto 021;0;1;0;0;0;1;1;158;1;NÃ£o;27/10/2021;Ativo;Apartamento
+RAI022;CAN;JR1Q;0,2;R. Afonso Cardoso da Veiga, 228 - Canasvieiras, FlorianÃ³polis - SC, CEP 88054-050, apto 022;0;0;1;0;0;2;1;169;2;NÃ£o;27/10/2021;Ativo;Apartamento
+RAI023;CAN;JR1Q;0,2;R. Afonso Cardoso da Veiga, 228 - Canasvieiras, FlorianÃ³polis - SC, CEP 88054-050, apto 023;0;0;1;0;0;2;1;169;2;NÃ£o;27/10/2021;Ativo;Apartamento
+RAI024;CAN;JR1Q;0,2;R. Afonso Cardoso da Veiga, 228 - Canasvieiras, FlorianÃ³polis - SC, CEP 88054-050, apto 024;0;1;0;0;0;1;1;158;1;NÃ£o;27/10/2021;Ativo;Apartamento
+ILC3209;ILC;TOP;0,1;Avenida dos BÃºzios, n. 1760, apto 3209 - JurerÃª Internacional, FlorianÃ³polis â€“ SC.;0;0;1;0;0;4;1;0;4;Sim;05/11/2021;Ativo;Dentro do Hotel
+CSC110;ING;SUP1Q;0,2;R. das Gaivotas, 1467, Bloco Alfa, apto 1110 - Ingleses Norte, FlorianÃ³polis - SC, CEP 88058-500.;1;0;0;0;0;4;1;208;4;NÃ£o;28/10/2021;Ativo;Apartamento
+CEA211;BCB;JR2Q;0,2;Rua Dom Afonso, 65, apto 211 - Vila Real, BalneÃ¡rio CamboriÃº - SC, 88337-070;0;1;1;0;1;4;1;236;4;NÃ£o;16/11/2021;Ativo;Apartamento
+CCM004;BOM;HOUSUP3Q;0,2;R. Angelim, 220, casa 04 - Canto Grande, Bombinhas - SC, 88215-000;3;0;0;0;0;6;2;306;6;NÃ£o;22/11/2021;Ativo;Casa
+JRR303;JUR;TOP2Q;0,2;R. Dep. Paulo Preis, 78, apto 303 - JurerÃª, FlorianÃ³polis - SC, CEP 88053-580.;1;0;1;0;0;6;2;229;6;NÃ£o;22/11/2021;Ativo;Apartamento
+RFB001;GRA;JR1Q;0,2;Rua Francisca Bezzi Casagrande, 277, apto 01 - Gramado, RS - CEP 95670-000;1;0;0;0;1;3;1;197;3;NÃ£o;22/11/2021;Ativo;Apartamento
+ABC102;ITA;MASTER3Q;0,2;Rua Delfim MÃ¡rio de PÃ¡dua Peixoto, 600, torre 4, apto 102 - Praia Brava, ItajaÃ­ - SC, 88306-813;2;2;0;0;0;6;2;322;6;NÃ£o;22/11/2021;Ativo;Apartamento
+ABC204;ITA;MASTER3Q;0,2;Rua Delfim MÃ¡rio de PÃ¡dua Peixoto, 600, torre 2, apto 204 - Praia Brava, ItajaÃ­ - SC, 88306-813;1;4;0;0;0;6;3,5;344;6;NÃ£o;22/11/2021;Ativo;Apartamento
+REL206;CAN;SUP2Q;0,2;Rua dos EucalÃ­ptos, 200, apto 206 - Canasvieiras, FlorianÃ³polis - SC, 88054-150;2;0;0;0;0;6;2;263;6;NÃ£o;24/11/2021;Ativo;Apartamento
+EIS305;ITP;SUP3Q;0,2;Rua 266, n. 26, bloco B, apto - Meia Praia, Itapema - SC, 88220-000;2;0;1;0;0;6;2;305;6;NÃ£o;30/11/2021;Ativo;Apartamento
+RMB404;CAM;TOP2Q;0,2;Avenida Campeche, 2639, Bloco C, apto 404 - Bairro Lagoa Pequena, FlorianÃ³polis â€“ SC, CEP: 88063-301;2;0;0;0;0;6;2;340;6;NÃ£o;30/11/2021;Ativo;Apartamento
+ELU107;JUR;TOP1Q;0,2;Rua Professor Renato Barbosa, 227, apto 107 - JurerÃª, FlorianÃ³polis â€“ SC - CEP 88053-640;0;0;1;0;0;4;1,5;196;4;NÃ£o;29/11/2021;Ativo;Apartamento
+CCL004;LAG;HOUTOP2Q;0,2;ServidÃ£o Caminho Costa da Lagoa, casa 4 - Lagoa da ConceiÃ§Ã£o, FlorianÃ³polis - SC;0;0;2;0;2;6;1,5;322;6;NÃ£o;30/11/2021;Ativo;Casa
+HAV206;CEN;TOP1Q;0,2;Rua Crispim Mira, 459, apto 206 - Centro, FlorianÃ³polis - SC, 88020-540;1;0;0;0;1;3;1;188;3;NÃ£o;30/11/2021;Ativo;Apartamento
+SSG210;UFSC;TOP1Q;0,2;R. JoÃ£o Pio Duarte Silva, 1350, apto 210 - CÃ³rrego Grande, FlorianÃ³polis - SC, CEP 88037-001;1;0;0;0;1;3;1;197;3;NÃ£o;07/12/2021;Ativo;Apartamento
+CTA022;CAN;SUP3Q;0,2;Avenida Tom Traugott Wildi, 411, bloco B, apto 22 - Praia Brava, FlorianÃ³polis - SC, 88056-800;2;3;0;0;0;;2;355;7;NÃ£o;08/12/2021;Ativo;Apartamento
+MAV005;JUR;SIM1Q;0,2;Rodovia Tertuliano de Brito Xavier, 3415, 05 - JurerÃª, FlorianÃ³polis â€“ SC - 88054-601;1;0;0;0;0;2;1;169;2;NÃ£o;10/12/2021;Ativo;Apartamento
+MAV006;JUR;SIM1Q;0,2;Rodovia Tertuliano de Brito Xavier, 3415, 06 - JurerÃª, FlorianÃ³polis â€“ SC - 88054-601;1;0;0;0;0;2;1;169;2;NÃ£o;10/12/2021;Ativo;Apartamento
+JRR103;JUR;TOP2Q;0,2;Rua Deputado Paulo Preis, 78, apto 103 - JurerÃª, FlorianÃ³polis - SC, 88053-580;0;3;0;1;0;5;2;272;5;NÃ£o;09/12/2021;Ativo;Apartamento
+VDC001;CAM;HOUJR3Q;0,2;Rua Joaquim JosÃ© Antunes, 911, casa 04 - Vivendas do Campeche, Campeche, FlorianÃ³polis â€“ SC;1;2;1;0;1;7;2,5;430;9;NÃ£o;09/12/2021;Ativo;Casa
+CEL403;BCB;TOP2Q;0,2;Avenida AtlÃ¢ntica, 1506, bloco A, apto 403 - Centro, BalneÃ¡rio CamboriÃº - SC, 88330-009;1;1;0;0;2;5;1,5;263;5;NÃ£o;13/12/2021;Ativo;Apartamento
+SSG313;UFSC;TOP1Q;0,2;R. JoÃ£o Pio Duarte Silva, 1350, apto 313 - CÃ³rrego Grande, FlorianÃ³polis - SC, CEP 88037-001;1;0;0;0;1;3;1;193;3;NÃ£o;14/12/2021;Ativo;Apartamento
+CAC302;ING;SUP2Q;0,2;Estrada Vereador Onildo Lemos, 256, apto 302A - Santinho, FlorianÃ³polis - SC, 88058-700;1;1;0;0;1;;2;244;4;NÃ£o;15/12/2021;Ativo;Apartamento
+RPL000;TBM;MASTER3Q;0,2;Rua ParaÃ­so do Luz, s/n - Ibiraquera, Imbituba - SC 88780-000;2;4;0;1;0;12;3;535;12;NÃ£o;17/12/2021;Ativo;Casa
+PTJ302;JUR;TOP2Q;0,2;Rua Professor Heinz Braunsperger, 85, apto 302 - JurerÃª, FlorianÃ³polis - SC, 88053-680;1;0;1;0;1;5;2,5;262;5;NÃ£o;21/12/2021;Ativo;Apartamento
+VISE059;CEN;HOUJR2Q;0,25;Rua Felipe Schmidt, 1066, casa 59 - Centro, FlorianÃ³polis â€“ SC, CEP 88010-002;0;1;1;0;0;5;2;252;5;NÃ£o;15/12/2021;Ativo;Casa
+CET802;BCB;TOP3Q;0,2;Avenida AtlÃ¢ntica, 4104, apto 802 - Centro, BalneÃ¡rio CamboriÃº - SC, 88330-027;2;1;0;0;1;6;2;315;6;NÃ£o;24/12/2021;Ativo;Apartamento
+EPC204;JUR;TOP2Q;0,2;R. dos Mandis, 90, apto 204 - JurerÃª Internacional, FlorianÃ³polis - SC, CEP 88053-404.;0;0;2;0;2;6;2;272;6;NÃ£o;28/12/2021;Ativo;Apartamento
+JBV105;JBV;JR;0,1;Alameda CÃ©sar Nascimento, 646, apto 105 - JurerÃª, FlorianÃ³polis - SC, CEP 88053-500.;0;1;1;0;0;3;1;0;3;Sim;30/12/2021;Ativo;Dentro do Hotel
+ELU106;JUR;TOP1Q;0,2;Rua Professor Renato Barbosa, 227, apto 106 - JurerÃª, FlorianÃ³polis - SC, 88053-640;1;0;0;0;1;4;2;215;4;NÃ£o;06/01/2022;Ativo;Apartamento
+JFR103;UFSC;SUP2Q;0,2;Rua JoÃ£o Pio Duarte Silva, 1536, Bloco A, apto 103 - CÃ³rrego Grande, FlorianÃ³polis - SC, CEP: 88037-001;1;2;0;0;1;5;2;270;5;NÃ£o;18/01/2022;Ativo;Apartamento
+JBV433;JBV;JR;0,05;Alameda CÃ©sar Nascimento, 646, apto 433 - JurerÃª, FlorianÃ³polis - SC, CEP: 88053-500;0;1;1;0;0;3;1;0;3;Sim;21/01/2022;Ativo;Dentro do Hotel
+JBV462;JBV;TOP;0,1;Alameda CÃ©sar Nascimento, 646, apto 462 - JurerÃª, FlorianÃ³polis - SC, CEP: 88053-500;0;1;1;0;0;5;1;0;5;Sim;21/01/2022;Ativo;Dentro do Hotel
+EBT108;JUR;SUP1Q;0,2;Alameda CÃ©sar Nascimento, 31, apto 108 - JurerÃª, FlorianÃ³polis - SC, 88053-500;1;0;0;0;1;2;1;197;2;NÃ£o;20/01/2022;Ativo;Apartamento
+ELU201;JUR;TOP1Q;0,2;Rua Professor Renato Barbosa, 227, apto 201 - JurerÃª, FlorianÃ³polis - SC, 88053-640;0;0;1;0;0;4;1;197;4;NÃ£o;20/01/2022;Ativo;Apartamento
+SMP169;CAM;HOUJR2Q;0,2;Rua ServidÃ£o CÃ¢ndido Manoel Pires, 169 - Campeche, FlorianÃ³polis - SC - 88063-093;0;2;0;1;1;4;1;277;4;NÃ£o;27/01/2022;Ativo;Casa
+RJS001;CAN;TOP1Q;0,2;Rua Ranulpho JosÃ© de Souza Sobrinho, 60, 01 - Canasvieiras, FlorianÃ³polis - SC, 88054-430;0;0;1;0;0;2;1;197;2;NÃ£o;28/01/2022;Ativo;Apartamento
+RJS002;CAN;HOUTOP4Q;0,2;Rua Ranulpho JosÃ© de Souza Sobrinho, 60, 02 - Canasvieiras, FlorianÃ³polis - SC, 88054-430;0;0;4;0;1;9;2;418;9;NÃ£o;28/01/2022;Ativo;Apartamento
+CSG305;CAN;JR1Q;0,2;Rua Madre Maria Vilac, 2136, apto 305 - Canasvieiras, FlorianÃ³polis - SC, 88054-000;1;0;0;0;0;4;1;197;4;NÃ£o;31/01/2022;Ativo;Apartamento
+ABC202;ITA;TOP3Q;0,2;Rua Delfim MÃ¡rio de PÃ¡dua Peixoto, 600, Torre 2, apto 202 - Praia Brava, ItajaÃ­ - SC, 88306-813;2;2;0;0;0;8;4;364;8;NÃ£o;31/01/2022;Ativo;Apartamento
+STC005;ING;HOUTOP4Q;0,2;Estrada DÃ¡rio Manoel Cardoso, 2350, casa 05 - Ingleses do Rio Vermelho, FlorianÃ³polis - SC, CEP 88058-400;2;4;1;0;4;14;3.1;551;14;NÃ£o;31/01/2022;Ativo;Casa
+CET602;BCB;TOP3Q;0,2;Avenida AtlÃ¢ntica, 4104, apto 602 - Centro, BalneÃ¡rio CamboriÃº - SC, 88330-027;2;2;0;0;0;7;2;340;7;NÃ£o;31/01/2022;Ativo;Apartamento
+RAN203;JUR;TOP3Q;0,2;Rua das MorÃ©ias, 32, apto 203 - JurerÃª, FlorianÃ³polis - SC, 88053-535;2;0;1;0;0;6;3,5;320;6;NÃ£o;01/02/2022;Ativo;Apartamento
+TOCA152;CAM;JR1Q;0,25;Rua das Corujas, 151, apto 02 - Campeche, FlorianÃ³polis - SC - CEP 88063-287;0;2;0;0;0;2;1;197;2;NÃ£o;02/02/2022;Ativo;Apartamento
+PDR305;JUR;SUP2Q;0,2;Avenida das Raias, 45, apto 305 - JurerÃª Internacional, FlorianÃ³polis - SC, 88053-400;1;0;1;0;0;4;2;243;4;NÃ£o;02/02/2022;Ativo;Apartamento
+JRR410;JUR;MASTER1Q;0,2;Rua Deputado Paulo Preis, 78, apto 410 - JurerÃª, FlorianÃ³polis - SC, 88053-580;0;0;1;0;0;2;2;197;2;NÃ£o;02/02/2022;Ativo;Apartamento
+ELU313;JUR;TOP2Q;0,2;Rua Professor Renato Barbosa, 227, apto 313 - JurerÃª, FlorianÃ³polis - SC, CEP 88053-640;2;0;0;0;0;6;3;270;6;NÃ£o;07/02/2022;Ativo;Apartamento
+EIA205;JUR;TOP1Q;0,25;Av. Jornalista MaurÃ­cio Sirotsky Sobrinho, 6101, apto 205 - JurerÃª, FlorianÃ³polis - SC - CEP 88053-701;0;0;1;0;2;4;1;197;4;NÃ£o;08/02/2022;Ativo;Apartamento
+RDL2222;CAN;HOUMASTER1Q;0,2;Rua do Lamin, 2222 - Canasvieiras, FlorianÃ³polis - SC - CEP 88.054-610;1;0;0;1;0;4;2;400;4;NÃ£o;08/02/2022;Ativo;Casa
+CSC013;ING;JR1Q;0,25;Rua das Gaivotas, 1467, bloco D, apto 13 - Ingleses do Rio Vermelho - FlorianÃ³polis/SC;1;0;0;0;1;3;1;197;3;NÃ£o;11/02/2022;Ativo;Apartamento
+JBV373;JBV;JR;0,1;Alameda CÃ©sar Nascimento, 646, apto 373 - JurerÃª, FlorianÃ³polis - SC, 88053-500;0;0;1;0;1;3;1;0;3;Sim;11/02/2022;Ativo;Dentro do Hotel
+JBV375;JBV;JR;0,1;Alameda CÃ©sar Nascimento, 646, apto 375 - JurerÃª, FlorianÃ³polis - SC, 88053-500;0;0;1;0;1;3;1;0;3;Sim;11/02/2022;Ativo;Dentro do Hotel
+SED002;UFSC;JR1Q;0,2;ServidÃ£o Dorval Manoel Bento, 175, apto 02 - CÃ³rrego Grande, FlorianÃ³polis - SC, 88037-410;1;0;0;0;0;4;1;197;4;NÃ£o;11/02/2022;Ativo;Apartamento
+JBV343;JBV;JR;0,1;Alameda CÃ©sar Nascimento, 646, apto 343 - JurerÃª, FlorianÃ³polis - SC, 88053-500;0;1;1;0;0;3;1;0;3;Sim;11/02/2022;Ativo;Dentro do Hotel
+RAE204;ING;TOP2Q;0,25;ServidÃ£o Capivari, 277, bloco A, apto 204 - Ingleses do Rio Vermelho - FlorianÃ³polis/SC, CEP: 88058-420;2;0;0;0;0;4;2;236;4;NÃ£o;11/02/2022;Ativo;Apartamento
+ASR304;ING;MASTER3Q;0,2;Estrada Vereador Onildo Lemos, 2345, vila 1, apto 304 - Santinho, FlorianÃ³polis - SC, 88058-700;0;0;3;0;2;8;4;304;8;NÃ£o;16/02/2022;Ativo;Apartamento
+RPP003;BOM;JR1Q;0,2;Rua Pica-Pau, 165, apto 03 - Bombas, Bombinhas - SC, 88215-000.;1;0;0;0;2;4;1;197;4;NÃ£o;18/02/2022;Ativo;Apartamento
+ILC4202;ILC;TOP;0,1;Av. dos BÃºzios, 1760, apto 4202 - JurerÃª Internacional, FlorianÃ³polis - SC, 88053-301;0;0;1;0;0;4;1;0;4;Sim;17/02/2022;Ativo;Dentro do Hotel
+JBV344;JBV;JR;0,1;Alameda CÃ©sar Nascimento, 646, apto 344 - JurerÃª, FlorianÃ³polis - SC, 88053-500;0;0;1;0;1;3;1;0;3;Sim;22/02/2022;Ativo;Dentro do Hotel
+ILC3401;ILC;TOP;0,13;Avenida dos BÃºzios, 1760, apto 3401 - JurerÃª Internacional, FlorianÃ³polis - SC, 88053-301;0;0;1;0;0;4;1;0;4;Sim;24/02/2022;Ativo;Dentro do Hotel
