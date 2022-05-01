@@ -1,6 +1,6 @@
 # Meetup Data Analysis with Python
-##
-<br><br>
+## Install the necessary prerequisites
+
 To install the Jupyter notebook follow the instructions here: <url> jupyter.org/install <url>  
 
 Install the libraries necessary to the exercise.
